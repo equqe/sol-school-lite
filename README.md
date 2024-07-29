@@ -1,2 +1,2 @@
 # sol-school-lite
-「🟡開発中」gift site for a web school (LITE landing ver)
+# full version: https://github.com/equqe/sol-school
